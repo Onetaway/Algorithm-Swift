@@ -10,3 +10,4 @@ import Foundation
 
 println("Hello, World!")
 
+println("6666")
